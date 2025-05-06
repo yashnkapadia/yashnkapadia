@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m <span style="color:#FF7F50">Yash Nishit Kapadia</span></h1>
-<p align="center"><em>3rd-year Engineering Science @ UofT | Artificial Intelligence Enthusiast</em></p>
+<p align="center"><em>3rd-year Engineering Science (Machine Intelligence) @ UofT | Artificial Intelligence Enthusiast</em></p>
 
 ---
 
