@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **BASc EngSci** student with a PEY co-op at the University of Toronto  
+- 🎓 **BASc EngSci (MI)** class of 2T7 (+PEY) at the University of Toronto  
 - 🔭 Built **Optimyse**, a Flask-powered inventory tracker using SQLite & Google APIs at Optima Diamond Tools  
 - 🌱 Practiced iterative design in **FungiFits** (2D-bin packing & CAD prototypes) & **CIV102 Bridge** (MATLAB sims & physical models)  
 - 🤖 Explored OCR AI apps in **Java, Python, Swift & Kotlin** during my Xerago internship  
