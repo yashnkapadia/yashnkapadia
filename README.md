@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I’m <span style="color:#FF7F50">Yash Nishit Kapadia</span></h1>
 <p align="center"><em>3rd-year Engineering Science (Machine Intelligence) @ UofT | Artificial Intelligence Enthusiast</em></p>
-
+<p align="center"><em>Software Developer Intern at J K Computers (May - August 2025)</p>
 ---
 
 ## 🌐 Portfolio & Blog  
@@ -55,7 +55,7 @@
 ---
 
 ## 💡 What I’m Currently Up To
-> _Placeholder: Sketching out a new cloud-native microservices demo, exploring Rust async runtimes, and plotting out next month’s blog on “Serverless Workflows with GitHub Actions”!_
+> Working on my profile page (blog setup + first blog coming up), Jokes Mailiing List (extending my love for bad puns to everyone!)
 
 ---
 
