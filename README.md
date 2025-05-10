@@ -18,7 +18,7 @@
 - 🔭 Built **Optimyse**, a Flask-powered inventory tracker using SQLite & Google APIs at Optima Diamond Tools  
 - 🌱 Practiced iterative design in **FungiFits** (2D-bin packing & CAD prototypes) & **CIV102 Bridge** (MATLAB sims & physical models)  
 - 🤖 Explored OCR AI apps in **Java, Python, Swift & Kotlin** during my Xerago internship  
-- 💬 Ask me about **GitHub Actions**, **Agile/Jira workflows**, or **bad puns**—I’ve got plenty!
+- 💬 Ask me about **GitHub Actions & CI/ CD Pipelines**, **Agile/Jira workflows**, or **bad puns**—I’ve got plenty!
 
 ---
 
