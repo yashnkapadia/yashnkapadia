@@ -55,7 +55,7 @@
 ---
 
 ## 💡 What I’m Currently Up To
-> Working on my profile page (blog setup + first blog coming up), Jokes Mailiing List (extending my love for bad puns to everyone!)
+> Learning Machine Intelligence concepts at UofT
 
 ---
 
