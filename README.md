@@ -23,7 +23,7 @@
 <ul>
   <li>
     <b>EarlyMind</b>: early screening support for neurodevelopmental differences in young children.
-    I designed and built the product site at <a href="https://earlympind.ca">earlympind.ca</a>.
+    I designed and built the product site at <a href="https://earlymind.ca">earlymind.ca</a>.
   </li>
   <li>
     <b>Task and meeting manager for iOS</b>: an autonomous assistant that schedules, nudges, and keeps projects on track using a custom intelligence stack built from the ground up.
