@@ -13,7 +13,7 @@
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/yashkapadia">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="https://earlympind.ca">EarlyMind</a>
+  <a href="https://earlymind.ca">EarlyMind</a>
 </p>
 
 <hr/>
