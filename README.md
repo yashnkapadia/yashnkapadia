@@ -2,71 +2,98 @@
   <img src="https://raw.githubusercontent.com/yashnkapadia/yashnkapadia/main/assets/banner.gif" alt="Welcome Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I’m <span style="color:#FF7F50">Yash Nishit Kapadia</span></h1>
-<p align="center"><em>3rd-year Engineering Science (Machine Intelligence) @ UofT | Artificial Intelligence Enthusiast</em></p>
-<p align="center"><em>Software Developer Intern at J K Computers (May - August 2025)</p>
----
-
-## 🌐 Portfolio & Blog  
-🔗 [yashnkapadia.github.io](https://yashnkapadia.github.io)  
-> Dive into my projects, community-building stories, and subscribe to my blog for regular updates and tutorials!
-
----
-
-## 🚀 About Me
-- 🎓 **BASc EngSci (MI)** class of 2T7 (+PEY) at the University of Toronto  
-- 🔭 Built **Optimyse**, a Flask-powered inventory tracker using SQLite & Google APIs at Optima Diamond Tools  
-- 🌱 Practiced iterative design in **FungiFits** (2D-bin packing & CAD prototypes) & **CIV102 Bridge** (MATLAB sims & physical models)  
-- 🤖 Explored OCR AI apps in **Java, Python, Swift & Kotlin** during my Xerago internship  
-- 💬 Ask me about **GitHub Actions & CI/ CD Pipelines**, **Agile Methodologies/Jira workflows**, or **bad puns**—I’ve got plenty!
-
----
-
-## 🔧 Skills & Tools  
-
-<p float="left">
-  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-70%25-00599C?style=for-the-badge&logo=c" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-85%25-E34F26?style=for-the-badge&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-80%25-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
+<h1 align="center">Yash Nishit Kapadia</h1>
+<p align="center">
+  Engineering Science, Machine Intelligence, University of Toronto<br/>
+  Software Developer Intern at J K Computers, May to August 2025
 </p>
-<p float="left">
-  <img src="https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/SQLite-Intermediate-003B57?style=for-the-badge&logo=sqlite" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matlab-Advanced-0076A8?style=for-the-badge&logo=matlab" alt="Matlab"/>
-</p>
-<p float="left">
-  <img src="https://img.shields.io/badge/Jira-Agile-0052CC?style=for-the-badge&logo=jira" alt="Jira"/>
-  <img src="https://img.shields.io/badge/GitHub-VC-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-70%25-FF3B0F?style=for-the-badge&logo=verilog" alt="SystemVerilog"/>
-</p>
-
----
-
-## 🏆 Leadership & Community
-- **Executive of Finance**, Desi Students’ Association (UofT) • Oct 2024 – Present  
-- **Alumni Judge**, VIBE Business Event (Chennai) • Aug 2024  
-- **Chief Editor & Mentor**, VaelsEdu Digital Magazine • Jul 2021 – Aug 2023  
-- **Volunteer**, Little Hearts (Chennai) • May 2022  
-
----
-
-## 💡 What I’m Currently Up To
-> Learning Machine Intelligence concepts at UofT
-
----
-
-## 📫 Let’s Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/yashkapadia"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Nishit%20Kapadia-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://yashnkapadia.github.io"><img src="https://img.shields.io/badge/Website-Visit_My_Blog-4A4E69?style=for-the-badge&logo=ghost" alt="Website"/></a>
-</p>
-
----
 
 <p align="center">
-  <em>“Stay curious, keep building, and never stop learning!” 🚀</em>
+  <a href="https://yashnkapadia.github.io">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/yashkapadia">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://earlympind.ca">EarlyMind</a>
+</p>
+
+<hr/>
+
+<h2>Now building</h2>
+
+<ul>
+  <li>
+    <b>EarlyMind</b>: early screening support for neurodevelopmental differences in young children.
+    I designed and built the product site at <a href="https://earlympind.ca">earlympind.ca</a>.
+  </li>
+  <li>
+    <b>Task and meeting manager for iOS</b>: an autonomous assistant that schedules, nudges, and keeps projects on track using a custom intelligence stack built from the ground up.
+  </li>
+  <li>
+    <b>Downtown Toronto traffic predictability</b>: statistical learning models to improve reliability of travel time forecasts and congestion signals.
+  </li>
+</ul>
+
+<hr/>
+
+<h2>What I do</h2>
+
+<ul>
+  <li><b>Machine learning systems</b>: data pipelines, model training, evaluation, deployment minded design</li>
+  <li><b>Product engineering</b>: build usable tools end to end, clean APIs, thoughtful UX, reliable releases</li>
+  <li><b>Team workflows</b>: CI CD, GitHub Actions, Jira, practical Agile execution</li>
+</ul>
+
+<hr/>
+
+<h2>Selected work</h2>
+
+<ul>
+  <li>
+    <b>Optimyse</b>: Flask inventory tracker using SQLite and Google APIs for Optima Diamond Tools
+  </li>
+  <li>
+    <b>FungiFits</b>: iterative design with 2D bin packing, CAD prototypes, and validation loops
+  </li>
+  <li>
+    <b>CIV102 Bridge</b>: MATLAB simulations paired with physical modeling and testing
+  </li>
+  <li>
+    <b>OCR apps exploration</b>: projects across Java, Python, Swift, and Kotlin during Xerago internship work
+  </li>
+</ul>
+
+<hr/>
+
+<h2>Skills</h2>
+
+<p>
+  <b>Languages</b><br/>
+  Python • JavaScript • C • HTML • CSS • SystemVerilog
+</p>
+
+<p>
+  <b>Frameworks and data</b><br/>
+  Flask • SQLite • NumPy • Pandas • MATLAB
+</p>
+
+<p>
+  <b>Tools</b><br/>
+  GitHub • GitHub Actions • Jira
+</p>
+
+<hr/>
+
+<h2>Leadership</h2>
+
+<ul>
+  <li><b>Executive of Finance</b>, Desi Students’ Association, UofT, Oct 2024 to Present</li>
+  <li><b>Alumni Judge</b>, VIBE Business Event, Chennai, Aug 2024</li>
+  <li><b>Chief Editor and Mentor</b>, VaelsEdu Digital Magazine, Jul 2021 to Aug 2023</li>
+  <li><b>Volunteer</b>, Little Hearts, Chennai, May 2022</li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  <em>Curious mind, clean builds, measurable results.</em>
 </p>
