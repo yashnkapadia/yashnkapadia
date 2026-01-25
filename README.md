@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/yashkapadia">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://earlymind.ca">EarlyMind</a>
+  &nbsp;•&nbsp;
   <a href="https://yashnkapadia.github.io/projects/probabull-ai.html">Probabull AI (Open Source)</a>
 </p>
 
