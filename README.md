@@ -4,7 +4,7 @@
 
 <h1 align="center">Yash Nishit Kapadia</h1>
 <p align="center">
-  Engineering Science, Machine Intelligence, University of Toronto<br/>
+  Engineering Science, Machine Intelligence, Cybersecurity + Business Certificate, University of Toronto<br/>
   Software Developer Intern at J K Computers, May to August 2025
 </p>
 
@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/yashkapadia">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://earlymind.ca">EarlyMind</a>
+  <a href="https://yashnkapadia.github.io/projects/probabull-ai.html">Probabull AI (Open Source)</a>
 </p>
 
 <hr/>
