@@ -30,7 +30,7 @@
     I designed and built the product site at <a href="https://earlymind.ca">earlymind.ca</a>.
   </li>
   <li>
-    <b>Traffic Adaptive Network Guidance & Optimization (TANGO)<\b>- real-time adaptive signal control and scenario planning module that evaluates how nearby projects (construction, lane closures, new public transit lines) alter demand/capacity to recommend signal timing/phasing updates 🕺 💃
+    <b>Traffic Adaptive Network Guidance & Optimization (TANGO)</b>- real-time adaptive signal control and scenario planning module that evaluates how nearby projects (construction, lane closures, new public transit lines) alter demand/capacity to recommend signal timing/phasing updates 🕺 💃
   </li>
 </ul>
 
