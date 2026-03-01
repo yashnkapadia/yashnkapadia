@@ -15,6 +15,8 @@
   &nbsp;•&nbsp;
   <a href="https://earlymind.ca">EarlyMind</a>
   &nbsp;•&nbsp;
+  <a href="https://github.com/yashnkapadia/ece324-TANGO/tree/data-setup">TANGO AI</a>
+  &nbsp;•&nbsp;
   <a href="https://yashnkapadia.github.io/projects/probabull-ai.html">Probabull AI (Open Source)</a>
 </p>
 
@@ -28,10 +30,7 @@
     I designed and built the product site at <a href="https://earlymind.ca">earlymind.ca</a>.
   </li>
   <li>
-    <b>Task and meeting manager for iOS</b>: an autonomous assistant that schedules, nudges, and keeps projects on track using a custom intelligence stack built from the ground up.
-  </li>
-  <li>
-    <b>Downtown Toronto traffic predictability</b>: statistical learning models to improve reliability of travel time forecasts and congestion signals.
+    <b>Traffic Adaptive Network Guidance & Optimization (TANGO)<\b>- real-time adaptive signal control and scenario planning module that evaluates how nearby projects (construction, lane closures, new public transit lines) alter demand/capacity to recommend signal timing/phasing updates 🕺 💃
   </li>
 </ul>
 
